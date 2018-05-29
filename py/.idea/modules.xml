@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TensorFlow/TensorFlow.iml" filepath="$PROJECT_DIR$/TensorFlow/TensorFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doc2vec/doc2vec.iml" filepath="$PROJECT_DIR$/doc2vec/doc2vec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gensimTest/gensimTest.iml" filepath="$PROJECT_DIR$/gensimTest/gensimTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gongZuo/gongZuo.iml" filepath="$PROJECT_DIR$/gongZuo/gongZuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lshText/lshText.iml" filepath="$PROJECT_DIR$/lshText/lshText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/py.iml" filepath="$PROJECT_DIR$/py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/py_lianxi/py_lianxi.iml" filepath="$PROJECT_DIR$/py_lianxi/py_lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/py_tool/py_tool.iml" filepath="$PROJECT_DIR$/py_tool/py_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentence2vec/sentence2vec.iml" filepath="$PROJECT_DIR$/sentence2vec/sentence2vec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snownlp/snownlp.iml" filepath="$PROJECT_DIR$/snownlp/snownlp.iml" />
+    </modules>
+  </component>
+</project>

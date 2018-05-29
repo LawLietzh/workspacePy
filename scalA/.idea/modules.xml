@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scalA.iml" filepath="$PROJECT_DIR$/scalA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaTestStudy/scalaTestStudy.iml" filepath="$PROJECT_DIR$/scalaTestStudy/scalaTestStudy.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: gome.bigdata:token:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/gome/bigdata/token/0.0.1-SNAPSHOT/token-0.0.1-20170928.100310-34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/gome/bigdata/token/0.0.1-SNAPSHOT/token-0.0.1-20170928.100310-34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/gome/bigdata/token/0.0.1-SNAPSHOT/token-0.0.1-20170928.100310-34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.gome.httpclient:httpclient:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/gome/httpclient/httpclient/0.0.1-SNAPSHOT/httpclient-0.0.1-20171101.031920-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/gome/httpclient/httpclient/0.0.1-SNAPSHOT/httpclient-0.0.1-20171101.031920-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/gome/httpclient/httpclient/0.0.1-SNAPSHOT/httpclient-0.0.1-20171101.031920-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
